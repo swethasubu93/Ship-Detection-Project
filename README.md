@@ -18,5 +18,7 @@ The central bottleneck facilitates the integration of both global and local feat
 
 
 ### Results
-The IOU (Intersection Over Nnion) evaluation metric is used- which is ideal of object detection cases. The trained U-Net model gave an IOU of 0.73.
+The IOU (Intersection Over Union) evaluation metric is used- which is ideal of object detection cases. 
+The trained U-Net model gave an IOU of 0.73.
+
 ![output](https://github.com/swethasubu93/Ship-Detection-Project/assets/109064336/5c7882a2-ad3f-403a-871f-8e63065375ea)
