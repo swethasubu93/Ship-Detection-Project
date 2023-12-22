@@ -6,7 +6,7 @@ Using a given a set of images for which the location of the ships are provided, 
 ![Screenshot 2023-10-20 164547](https://github.com/swethasubu93/Ship-Detection-Project/assets/109064336/fea95634-d3f2-427d-b445-235b43a41d11)
 
 ### Model
-A U-Net model is built for object detection.
+A U-Net model is built for object detection. [Jupyter Notbook](https://github.com/swethasubu93/Ship-Detection-UNet/blob/main/Lab1_Part3_OurModel.ipynb)
 
 ##### Why UNet?
 UNet is prominently employed in the domain of ship detection due to its adeptness at capturing intricate details, preserving spatial context, and facilitating segmentation tasks by combining downsampling and upsampling pathways. 
